@@ -1,0 +1,11 @@
+# Word temp/lock/autosave files
+~$*.docx
+~$*.doc
+*.tmp
+*.wbk
+*.asd
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
