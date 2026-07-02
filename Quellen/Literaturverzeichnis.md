@@ -45,6 +45,6 @@ Nachname, Vorname (Jahr): Titel des Artikels. In: Name der Website/Zeitschrift, 
 
 | # | Autor(en) | Jahr | Titel | Typ | Bewertung | Verwendet von | Vollständige Angabe |
 |---|---|---|---|---|---|---|---|
-| | | | | | | | |
+| 1 | Ben-David, I.; Franzoni, F.; Moussawi, R. | 2018 | Do ETFs Increase Volatility? | Fachzeitschrift (peer-reviewed) | 5 Sterne | | Ben-David, I.; Franzoni, F.; Moussawi, R. (2018): Do ETFs Increase Volatility? In: The Journal of Finance, Vol. 73, Nr. 6, S. 2471–2535, DOI: 10.1111/jofi.12727. |
 
 Tabelle bei Bedarf erweitern. Die Nummer `#` hier ist nur zur Übersicht und entspricht nicht zwingend der Word-Fußnotennummer, die vergibt Word automatisch. Bewertung nach dem Schema oben (Quellentyp-Basiswert ± Aktualität/Seriosität).
