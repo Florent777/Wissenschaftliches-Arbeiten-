@@ -112,6 +112,7 @@ Florent und Jerome arbeiten unabhängig (an unterschiedlichen Rechnern, ggf. mit
 **Aktiv prüfen und ansprechen, nicht stillschweigend ignorieren:**
 - Unbelegte Behauptungen: jede Zahl/Tatsachenbehauptung braucht eine Fußnote; keine Quelle erfinden.
 - Fußnoten ↔ Literaturverzeichnis: jede Fußnote muss einen passenden Eintrag in `Quellen/Literaturverzeichnis.md` haben und umgekehrt.
+- Quellenqualität: jede neue Quelle nach dem Bewertungsschema in `Quellen/Literaturverzeichnis.md` einstufen (Lehrbuch/Herausgeberwerk/Fachzeitschrift/Arbeitspapier, angepasst um Aktualität & Seriosität); bei überwiegend niedrig bewerteten oder veralteten Quellen aktiv warnen und bessere Alternativen vorschlagen.
 - Word-Fußnoten technisch korrekt setzen: immer Words automatische Fußnotenfunktion verwenden, niemals Nummern von Hand eintippen – sonst verschieben sich beim Zusammenführen der beiden Teile alle Nummern.
 - Konsistenz zwischen den beiden Teilen (Florent/Jerome): gleiche Begriffe/Abkürzungen einheitlich verwenden, keine Widersprüche zwischen Chancen- und Risiken-Teil, keine doppelt erklärten Grundlagen.
 - Seitenzahl im Blick behalten: ~5 Seiten Inhalt pro Person – bei deutlicher Über-/Unterschreitung aktiv ansprechen.
