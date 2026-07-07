@@ -10,3 +10,10 @@ Kurzinfos zu Journals, aus denen Artikel für die Arbeit zitiert werden – hilf
 - **Bedeutung:** eine der renommiertesten (Top-Tier) wissenschaftlichen Zeitschriften im Bereich Finance/Kapitalmarktforschung, peer-reviewed
 - **Website:** https://afajof.org/ (Journal-Seite der AFA), Artikel über Wiley Online Library (onlinelibrary.wiley.com), DOI-Präfix 10.1111/jofi
 - **Verwendeter Artikel aus diesem Journal:** siehe `Literaturverzeichnis.md`, Ben-David/Franzoni/Moussawi (2018), "Do ETFs Increase Volatility?"
+
+## Journal of Financial Markets
+
+- **Verlag:** Elsevier
+- **Bedeutung:** wissenschaftliche Fachzeitschrift im Bereich Finance/Marktmikrostruktur, peer-reviewed
+- **Website:** https://www.sciencedirect.com/search?qs=&pub=Journal+of+Financial+Markets&cid=271966
+- **Verwendeter Artikel aus diesem Journal:** noch offen
