@@ -29,3 +29,8 @@ Alle Regeln für die Zusammenarbeit – auch mit KI-Assistenten – stehen in [`
 - [ ] Sichtbarkeit des Repos prüfen (privat empfohlen, solange die Arbeit unfertig ist)
 - [ ] Themenaufteilung in `Gliederung.md` final festlegen
 - [ ] Vollständiges Literaturverzeichnis-Format mit der Lehrkraft abgleichen (bisher ist nur das Fußnotenformat bestätigt)
+
+
+
+Software zur Literaturverwaltung
+    Zotoro
